@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/eyeshotkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/eyeshotkhalid?logo=twitter&style=for-the-badge" alt="eyeshotkhalid" /></a> </p>
 
-- 🔭 I’m currently working on **D D F S   D A T A  E X T R A C T I O N   H U B**
+- 🔭 I’m currently working on **DDFS - DATA - EXTRACTION - HUB**
 
 - 💬 Ask me about **Dart, Flutter, Python, Wordpress, C, C#, C++**
 
