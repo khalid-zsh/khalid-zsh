@@ -1,33 +1,143 @@
 [![MasterHead](https://j.gifs.com/vO0xEx.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Eyeshot Khalid</h1>
-<h3 align="center">A passionate Application Software Developer From Dhaka, Bangladesh</h3>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-zsh&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-zsh" /> </p>
+<h1 align="center">Hi 👋, I'm Khalid Al SHuaib </h1>
 
-<p align="left"> <a href="https://twitter.com/eyeshotkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/eyeshotkhalid?logo=twitter&style=for-the-badge" alt="eyeshotkhalid" /></a> </p>
-
-- 🔭 I’m currently working on **DDFS - DATA - EXTRACTION - HUB**
-
-- 💬 Ask me about **Dart, Flutter, Python, Wordpress, C, C#, C++**
-
-- 📫 How to reach me **eyeshotkhalid@gmail.com**
-
-- ⚡ Fun fact **With me, you will never feel bored**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eyeshotkhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyeshotkhalid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-khalid-al-shuaib-661394318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-khalid-al-shuaib-661394318" height="30" width="40" /></a>
-<a href="https://fb.com/al.khalid48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al.khalid48" height="30" width="40" /></a>
-<a href="https://instagram.com/eyeshot_khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyeshot_khalid" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=I+build+apps+for+Android+%F0%9F%93%B1+iOS+%F0%9F%8D%8E+Web+%F0%9F%8C%90+Desktop+%F0%9F%96%A5;Flutter+%7C+Dart+%7C+Python+Developer;Turning+ideas+into+production+apps" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-zsh&show_icons=true&locale=en&layout=compact" alt="khalid-zsh" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-zsh&show_icons=true&locale=en" alt="khalid-zsh" /></p>
+- 🔭 Currently building: **DDFS – Data Extraction Hub (Cross-platform system using Flutter + Python backend)**
+- 🧩 Working across: **Android, iOS, Web, Windows, macOS, Linux applications**
+- 🧠 Focus areas: **Mobile + Desktop app development, backend integration, scalable UI architecture**
+- 💬 Ask me about: **Flutter, Dart, Python, REST APIs, Firebase, clean architecture**
+- 📫 Reach me: **eyeshotkhalid@gmail.com**
+- ⚡ Fun fact: I don’t just write code—I build deployable systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-zsh&" alt="khalid-zsh" /></p>
+---
+
+## 🧠 Tech Stack
+
+### 📱 Cross-Platform Development
+- Flutter (Android, iOS, Web, Windows, macOS, Linux)
+- Dart
+
+### 🖥️ Backend & APIs
+- Python (Flask / FastAPI)
+- REST APIs
+- Firebase
+
+### 💾 Databases
+- Firebase Firestore
+- MongoDB
+- SQLite
+
+### ⚙️ Tools & DevOps
+- Git & GitHub
+- Linux
+- API Integration
+- CI/CD basics
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+### 📡 DDFS – Data Extraction Hub
+Cross-platform system for extracting and processing structured data efficiently.
+
+<p>
+  <a href="https://your-live-demo-link.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-repo-link">
+    <img src="https://img.shields.io/badge/Source%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+**Tech Stack:** Flutter • Python • REST API • Firebase
+
+---
+
+### 🛒 E-Commerce App (Final Year Project)
+Full-featured e-commerce system with cart, wallet, authentication, and order tracking.
+
+<p>
+  <a href="https://your-live-demo-link.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-repo-link">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+**Tech Stack:** Flutter • Firebase • REST API • Cloud Functions
+
+---
+
+### 💬 Real-time Chat App
+Messaging application with real-time communication and media sharing.
+
+<p>
+  <a href="https://your-live-demo-link.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-2962FF?style=for-the-badge&logo=google-chat&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-repo-link">
+    <img src="https://img.shields.io/badge/Source%20Code-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+**Tech Stack:** Flutter • Firebase • Cloud Firestore • Push Notifications
+
+---
+
+## 🌐 Platforms I Build For
+
+✔ Android  
+✔ iOS  
+✔ Web Applications  
+✔ Windows Desktop Apps  
+✔ Linux Applications  
+✔ macOS Applications  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalid-zsh&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-zsh" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-zsh&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/eyeshotkhalid">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="https://linkedin.com/in/md-khalid-al-shuaib-661394318">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://facebook.com/al.khalid48">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://instagram.com/eyeshot_khalid">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
