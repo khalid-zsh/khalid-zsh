@@ -78,24 +78,6 @@
 
 ---
 
-## 🚀 What I Build
-
-- 🛒 E-commerce apps (payment + cart systems)
-- 📦 API-driven apps
-- 🔔 Background services & notifications
-- 📊 Admin dashboards
-- 🎨 UI/UX-focused Flutter apps
-
----
-
-## 📂 Featured Projects
-
-- 🚀 **E-Commerce App** — Full Flutter + Firebase shopping system  
-- 🚀 **Task Manager App** — Cross-platform productivity tool  
-- 🚀 **Chat Application** — Real-time messaging with Firebase  
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -108,14 +90,6 @@
   <a href="mailto:eyeshotkhalid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake (Optional Fun)
-
-<p align="center">
-  <img src="https://github.com/khalid-zsh/khalid-zsh/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
