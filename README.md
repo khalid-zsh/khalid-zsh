@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/khalid-zsh?style=social"/>
+  <img src="https://img.shields.io/github/stars/khalid-zsh?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=khalid-zsh&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -38,8 +38,8 @@
 ## 🧠 Tech Stack
 
 ### 🚀 Mobile & Frameworks
-- Flutter (State Management: GetX / Provider / Bloc)
-- Firebase (Auth, Firestore, Push Notifications)
+- Flutter
+- Firebase
 - REST APIs & JSON
 
 ### 💻 Languages
@@ -47,23 +47,25 @@
 - C
 - C++
 - C#
+- Python
 
 ### 🧩 Tools
 - Git & GitHub
-- Figma (UI/UX Design)
-- VS Code / Android Studio
+- Figma 
+- VS Code
+- Android Studio
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalid-zsh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-zsh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-zsh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -71,7 +73,7 @@
 ## ⚡ Activity Indicator
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalid-zsh&theme=tokyonight"/>
 </p>
 
 ---
@@ -97,13 +99,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/khalid-zsh">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/khalid-al-shuaib?fbclid=IwY2xjawRV4T5leHRuA2FlbQIxMABicmlkETFiYWVmTDJ1RDkxcnVHb0pkc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHmbcaqQ_aA5eZOTMlC5Wg2bAGRF6byFbOEKvKcEU4ib7PVxedDVTyX9Ksp1F_aem_k_Gdcv2tZWz2igqYGrya6g)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:eyeshotkhalid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -113,7 +115,7 @@
 ## 🐍 Contribution Snake (Optional Fun)
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/khalid-zsh/khalid-zsh/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
